@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+  div(ng-view)
+  //-.row
+    .col-xs-6(ng-repeat="bl in blog")
+      .bs-callout.bs-callout-primary 
+        h4 {{bl.titulo}}
+        p {{bl.cuerpo}}
+        //-p.small.text-right {{not.lugar}}
+        //-a(href="/noticias/{{not._id}}").btn.btn-info.btn-xs Mas  

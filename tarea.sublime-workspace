@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Data",
+				"dataPolitica"
+			],
+			[
+				"P",
+				"pruebaData"
+			],
+			[
+				"pr",
+				"pruebaData"
+			],
+			[
+				"fun",
+				"function_prueba"
+			],
+			[
+				"ur",
+				"url_path"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"c",
+				"comentario"
+			],
+			[
+				"res",
+				"requestOptions"
+			],
+			[
+				"re",
+				"requestoptions"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"se",
+				"sendJsonResponse"
+			],
+			[
+				"es",
+				"esTipo"
+			],
+			[
+				"get",
+				"getNoticias"
+			],
+			[
+				"s",
+				"sendJsonResponse"
+			],
+			[
+				"noti",
+				"noticia"
+			],
+			[
+				"mai",
+				"mainCtrl"
+			],
+			[
+				"com",
+				"comentario_schema"
+			],
+			[
+				"fe",
+				"fecha_hora"
+			],
+			[
+				"new",
+				"newNoticia"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"fec",
+				"fecha_nacimiento"
+			],
+			[
+				"Usu",
+				"Usuario"
+			],
+			[
+				"app",
+				"app_api"
+			],
+			[
+				"ma",
+				"mainCtrl"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"usu",
+				"usuario_schema"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Pas",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": ":",
+		"selected_items":
+		[
+			[
+				":",
+				":0 - BOF"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git r",
+				"Package Control: Remove Repository"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				":wa",
+				":w - Save"
+			],
+			[
+				"package In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/public/javascripts/MyApp.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/public/nuevo.html",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/views/layout.jade",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/views/include/form-new-noticia.jade",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/views/index.jade",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/views/noticia.jade",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/controllers/main.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/models/modelo.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/models/schemas.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/controllers/comentario.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/controllers/noticia.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_server/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/node_modules/express/lib/request.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/bin/www",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/Readme.me",
+		"/home/eduardo/Descargas/nuevo.html",
+		"/home/eduardo/Workspace/c++/semaforo1.c",
+		"/home/eduardo/Workspace/c++/semaforo2.c",
+		"/home/eduardo/Workspace/c++/lab9_eje3.c",
+		"/home/eduardo/Workspace/c++/lab9_eje4.c",
+		"/home/eduardo/.cache/.fr-i8Dc61/c.cpp",
+		"/home/eduardo/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/eduardo/Workspace/c++/hilos3.c",
+		"/home/eduardo/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/controllers/crud.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app_server/controllers/locations.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app_api/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app_api/controllers/locations.js",
+		"/home/eduardo/Workspace/lab-inp/Prueba/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app_server/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/Prueba/app.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app.js",
+		"/home/eduardo/Workspace/lab-inp/cap-7/getting-MEAN/app_api/models/db.js",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_api/controllers/locations.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/controllers/main.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/app_api/conrollers/main.js",
+		"/home/eduardo/Workspace/lab-inp/WebNoticias/public/stylesheets/style.css",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_api/models/modelo.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/controllers/main.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/about.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/index.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_api/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_api/models/schemas.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app.js",
+		"/home/eduardo/Workspace/c++/C.cpp",
+		"/home/eduardo/Workspace/c++/B.cpp",
+		"/home/eduardo/Workspace/c++/A.cpp",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/layout.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/login.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/models/schemas.js",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_api/models/db.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/models/modelo.js",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_api/models/locations.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/register.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/index.jade_",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_server/views/layout.jade",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_server/routes/index.js",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_server/controllers/others.js",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_server/views/index.jade",
+		"/home/eduardo/Workspace/lab-inp/cap-9/getting-MEAN/app_server/views/generic-text.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/views/error.jade",
+		"/home/eduardo/Workspace/lab-inp/prueba/app_server/routes/users.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/node_modules/mongoose/node_modules/async/node_modules/lodash/join.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/public/stylesheets/style.css",
+		"/home/eduardo/Workspace/lab-inp/prueba/node_modules/express/lib/router/index.js",
+		"/home/eduardo/Workspace/lab-inp/prueba/node_modules/express/lib/router/route.js",
+		"/home/eduardo/Descargas/Jumbotron Template for Bootstrap_files/jumbotron.css",
+		"/home/eduardo/Descargas/Jumbotron Template for Bootstrap.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pruebaData",
+			"length",
+			"apioptions",
+			"apiOptions",
+			"apioptions",
+			"var",
+			"TrailingSpaces",
+			"parameter",
+			"\n\t",
+			"\"\",",
+			"”",
+			"renderHomepage",
+			"split",
+			"parseFloat",
+			"modelo",
+			"eee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"apioptions",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tarea.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"app_server/controllers/main.js"
+			],
+			[
+				"app",
+				"prueba/app.js"
+			],
+			[
+				"ajj",
+				"prueba/node_modules/mongoose/node_modules/async/node_modules/lodash/join.js"
+			],
+			[
+				"router",
+				"node_modules/express/lib/router/index.js"
+			],
+			[
+				"rout",
+				"node_modules/express/lib/router/route.js"
+			],
+			[
+				"index",
+				"app_api/routes/index.js"
+			],
+			[
+				"index.ja",
+				"app_server/views/index.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/sublime/untitled.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
